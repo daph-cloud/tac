@@ -1,0 +1,5 @@
+economy,series,Country,Series,YR2022,YR2023,YR2024,YR2025
+FRA,SP.POP.TOTL,France,"Population, total",68184457.0,68372286.0,68551653.0,68720337.0
+BEL,SP.POP.TOTL,Belgium,"Population, total",11680210.0,11779946.0,11858610.0,11941781.0
+FRA,SP.DYN.LE00.IN,France,"Life expectancy at birth, total (years)",82.1292682926829,82.8317073170732,82.9804878048781,
+BEL,SP.DYN.LE00.IN,Belgium,"Life expectancy at birth, total (years)",81.7487804878049,82.4,82.3,
